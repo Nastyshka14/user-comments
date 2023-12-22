@@ -67,6 +67,3 @@ const UsersList: React.FC<UsersListProps> = ({ users }) => {
 };
 
 export default UsersList;
-function dispatch(arg0: any) {
-  throw new Error("Function not implemented.");
-}
