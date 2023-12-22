@@ -6,5 +6,3 @@ This is an application for searching a user by email, made using React, TypeScri
 
 * ````npm install````
 * ````npm start````
-
-[Deployed version on Vercel](user-comments.vercel.app) 
